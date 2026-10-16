@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TrueCrime.uk@SD",True Crime UK (720p)
+https://jmp2.uk/plu-6304fb268bd95300072d2198.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAmericanTrueCrime.de@GB",Pluto TV American True Crime
+https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
+#EXTINF:-1 tvg-id="",Crimes That Shook Britain
+https://jmp2.uk/plu-66ba1e23d2d50d00084a1e57.m3u8
+#EXTINF:-1 tvg-id="",Medical Detectives
+https://jmp2.uk/plu-68d113f9184f1a0620c8101c.m3u8
+#EXTINF:-1 tvg-id="48Hours.us@US",48 Hours
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+#EXTINF:-1 tvg-id="UnsolvedMysteries.us@UK",Unsolved Mysteries
+https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
+#EXTINF:-1 tvg-id="TrueCrimeNow.us@SD",True Crime Now (720p)
+https://jmp2.uk/plu-65a7b04e7bdc8d0008488307.m3u8
+#EXTINF:-1 tvg-id="",Meet Marry Murder
+https://jmp2.uk/plu-691b453846ca5e6d1665f03b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCrime.de@GB",Pluto TV Crime
+https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us@SD",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
