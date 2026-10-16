@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NASATVPublic.us" group-title="01 Science and Engineering",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="NASATVMedia.us" group-title="01 Science and Engineering",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us@SD" group-title="01 Science and Engineering",WeatherNation
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+#EXTINF:-1 tvg-id="WorldChannel.us@SD" group-title="02 Documentary and Public Media",PBS World Channel
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@US" group-title="02 Documentary and Public Media",Documentary Plus
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNOriginals.us@SD" group-title="02 Documentary and Public Media",CNN Originals
+https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us@SD" group-title="02 Documentary and Public Media",Bloomberg Originals
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="PBS.us@KQED" group-title="03 Education and Culture",KQED DT2
+https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+#EXTINF:-1 tvg-id="Create.us@SD" group-title="03 Education and Culture",PBS Create
+https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="FNX.us@SD" group-title="03 Education and Culture",FNX Indigenous Culture
+https://fnx.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="PBS.us@KVIE" group-title="03 Education and Culture",KVIE DT2
+https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
+#EXTINF:-1 tvg-id="WorldChannel.us@WGTV" group-title="03 Education and Culture",WGTV DT3 World
+https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@US" group-title="04 Technology Business and Economy",Bloomberg TV US
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus" group-title="04 Technology Business and Economy",Bloomberg TV Plus
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us@SD" group-title="04 Technology Business and Economy",Cheddar News
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+#EXTINF:-1 tvg-id="BizTV.us@SD" group-title="04 Technology Business and Economy",Biz TV
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" group-title="05 International Perspectives",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="05 International Perspectives",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="Newsy.us@SD" group-title="05 International Perspectives",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 tvg-id="48Hours.us@US" group-title="06 Investigation and True Crime",48 Hours
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us@SD" group-title="06 Investigation and True Crime",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
